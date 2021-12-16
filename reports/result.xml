@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite name="pytest" errors="0" failures="0" skipped="0" tests="1" time="21.199" timestamp="2021-12-16T12:49:31.923117" hostname="DESKTOP-QU9T4E9"><testcase classname="test_persons_api.TestPersonsApi" name="test_data_integrity[generate_persons]" time="20.992" /></testsuite></testsuites>

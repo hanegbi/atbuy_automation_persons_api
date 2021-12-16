@@ -8,6 +8,7 @@ FIRSTNAME = 'firstname'
 NAME = 'name'
 GENDER = 'gender'
 AGE = 'age'
+PERSONS = 'persons'
 COUNTRY = 'country'
 COUNTRY_ID = 'country_id'
 NATIONALITY = 'nationality'
@@ -21,6 +22,7 @@ NATIONALITY_API = 'https://api.nationalize.io'
 OK = 200
 BAD_REQUEST = 400
 UNAUTHORIZED = 401
+DEFAULT_QUANTITY = 5
 
 BAD_REQUEST_MESSAGE = 'Bad Request error 400'
 UNAUTHORIZED_MESSAGE = 'Unauthorized API Key error 401'
