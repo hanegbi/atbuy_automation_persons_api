@@ -1,5 +1,5 @@
 <p align="center">
-  <a target="blank"><img src="https://nextage.co.il/wp-content/uploads/2020/10/Adaptive-Shield-1024x470.png" width="100" alt="ab" /></a>
+  <a target="blank"><img src="https://nextage.co.il/wp-content/uploads/2020/10/Adaptive-Shield-1024x470.png" width="200" alt="ab" /></a>
 </p>
 
 
