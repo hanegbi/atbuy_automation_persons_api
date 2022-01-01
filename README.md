@@ -1,6 +1,6 @@
 <p align="center">
 
-  <a target="blank"><img src="https://uploads-ssl.webflow.com/5ede2930e5cf1efddf5e0f4c/5edf3088d2dedb18d0c537eb_logo.svg" width="100" alt="ab" /></a>
+  <a target="blank"><img src="https://nextage.co.il/wp-content/uploads/2020/10/Adaptive-Shield-1024x470.png" width="100" alt="ab" /></a>
 </p>
 
 
